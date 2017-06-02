@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.main {
+	width: 450px;
+	border: 2px solid blue;
+	border-radius: 10px;
+}
+.casio {
+	height: 55px;
+	width: 100%;
+	background: blue;
+	margin-top: 20px;
+	text-align: right;
+	color: white;
+	font-family: Tahoma, sans-serif;
+	font-size: 30px;
+	line-height: 55px;
+	padding-right: 10px;
+	margin-left: -10px;
+}
+input {
+	height: 50px;
+	width: 420px;
+	border: 2px solid blue;
+	border-radius: 5px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 20px;
+	font-size: 30px;
+}
+.blue-block {
+	height: 55px;
+	width: 200px;
+	background: blue;
+	margin: 10px 0 10px 235px;
+}
+.one {
+	width: 470px;
+	clear: both;
+	margin: 0 auto;
+}
+.botton {
+	width: 90px;
+	height: 90px;
+	border: 2px solid blue;
+	border-radius: 5px;
+	float: left;
+	margin: 9px;
+	font-size: 30px;
+	color: blue;
+	text-align: center;
+	line-height: 90px;
+}
+.clear-fix {
+	clear: both;
+}
